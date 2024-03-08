@@ -4,7 +4,7 @@
 
 <template>
   <!-- 一级路由出口组件 -->
-  <RouterView></RouterView>
+  <RouterView/>
 </template>
 
 <style scoped>
