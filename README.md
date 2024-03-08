@@ -1,6 +1,6 @@
 # yijun-vue-study
 
-This template should help get you started developing with Vue 3 in Vite.
+study for vue
 
 ## Recommended IDE Setup
 
@@ -36,3 +36,17 @@ npm run build
 ```sh
 npm run lint
 ```
+
+# some command
+
+node -v 验证
+
+项目下载：
+https://github.com/Rem-Blove/vite-rabbit/tree/rabbit
+vue 脚手架：npm init vue@latest
+
+定制主图色
+npm i sass -D
+安装axios: npm i axios
+
+
