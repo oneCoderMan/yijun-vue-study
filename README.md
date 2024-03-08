@@ -39,6 +39,8 @@ npm run lint
 
 # some command
 
+[参考文档](https://www.yuque.com/fechaichai/td99ck/meog43oectpm1af0)
+
 node -v 验证
 
 项目下载：
