@@ -1,7 +1,7 @@
-import httpInstanse from "@/utils/http"
+// import httpInstanse from "@/utils/http"
 
-export function getCatory() {
-    return httpInstanse({
-        url: 'home/category/head'
-    })
-}
+// export function getCatory() {
+//     return httpInstanse({
+//         url: 'home/category/head'
+//     })
+// }
